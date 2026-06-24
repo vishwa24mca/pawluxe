@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Royal Plush Pet Bed",
+      "category": "Beds",
+      "price": 2499,
+      "emoji": "🛏️",
+      "bg": "#faf3e8",
+      "desc": "Ultra-soft memory foam with velvet cover"
+    },
+    {
+      "id": "2",
+      "name": "Velvet Luxe Collar",
+      "category": "Collars",
+      "price": 899,
+      "emoji": "📿",
+      "bg": "#f3f0fa",
+      "desc": "Premium velvet with gold-plated buckle"
+    },
+    {
+      "id": "3",
+      "name": "Coat Shine Serum",
+      "category": "Grooming",
+      "price": 649,
+      "emoji": "🧴",
+      "bg": "#edf7f0",
+      "desc": "Natural oils for a glossy, healthy coat"
+    },
+    {
+      "id": "4",
+      "name": "Bow Tie Set (3pc)",
+      "category": "Accessories",
+      "price": 549,
+      "emoji": "🎀",
+      "bg": "#fdf1ee",
+      "desc": "Adjustable satin bow ties, 3 colours"
+    },
+    {
+      "id": "5",
+      "name": "Plush Toy Bundle",
+      "category": "Toys",
+      "price": 749,
+      "emoji": "🧸",
+      "bg": "#faf3e8",
+      "desc": "Set of 4 squeaky plush toys"
+    },
+    {
+      "id": "6",
+      "name": "Gourmet Treat Box",
+      "category": "Treats",
+      "price": 1199,
+      "emoji": "🍖",
+      "bg": "#edf7f0",
+      "desc": "All-natural handmade gourmet bites"
+    },
+    {
+      "id": "7",
+      "name": "Orthopedic Bed XL",
+      "category": "Beds",
+      "price": 3799,
+      "emoji": "🛋️",
+      "bg": "#faf3e8",
+      "desc": "Extra-large orthopedic support bed"
+    },
+    {
+      "id": "8",
+      "name": "Leather Lead",
+      "category": "Collars",
+      "price": 1299,
+      "emoji": "🦮",
+      "bg": "#f3f0fa",
+      "desc": "Genuine leather leash, 1.5m"
+    },
+    {
+      "id": "9",
+      "name": "Paw Butter Balm",
+      "category": "Grooming",
+      "price": 449,
+      "emoji": "🐾",
+      "bg": "#edf7f0",
+      "desc": "Moisturising balm for dry paws"
+    },
+    {
+      "id": "10",
+      "name": "Crystal Tag Charm",
+      "category": "Accessories",
+      "price": 699,
+      "emoji": "💎",
+      "bg": "#fdf1ee",
+      "desc": "Personalised ID tag with crystal finish"
+    },
+    {
+      "id": "11",
+      "name": "Rope Tug Toy",
+      "category": "Toys",
+      "price": 349,
+      "emoji": "🪢",
+      "bg": "#faf3e8",
+      "desc": "Heavy-duty braided rope for tugging"
+    },
+    {
+      "id": "12",
+      "name": "Salmon Bites Pack",
+      "category": "Treats",
+      "price": 799, 
+      "emoji": "🐟", 
+      "bg": "#edf7f0", 
+      "desc": "Omega-rich freeze-dried salmon treats" 
+    }
+  ],
+  "cart": [],
+  "details": []
+}

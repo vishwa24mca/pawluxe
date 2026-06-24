@@ -1,0 +1,13 @@
+<svg width="250" height="60" viewBox="0 0 250 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(10, 10)">
+    <path d="M20 35 L10 20 Q15 10 20 15 Q25 10 30 20 Z" fill="#d4af37" />
+    <ellipse cx="6" cy="15" rx="3" ry="5" transform="rotate(-30 6 15)" fill="#ffffff" />
+    <ellipse cx="14" cy="8" rx="3" ry="5" transform="rotate(-10 14 8)" fill="#ffffff" />
+    <ellipse cx="26" cy="8" rx="3" ry="5" transform="rotate(10 26 8)" fill="#ffffff" />
+    <ellipse cx="34" cy="15" rx="3" ry="5" transform="rotate(30 34 15)" fill="#ffffff" />
+  </g>
+
+  <text x="60" y="42" font-family="'Playfair Display', 'Georgia', serif" font-size="32" font-weight="bold" fill="#ffffff">
+    Paw<tspan fill="#d4af37">Luxe</tspan>
+  </text>
+</svg>
